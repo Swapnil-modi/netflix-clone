@@ -1,0 +1,4 @@
+[1010/113244.181:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1011/174954.826:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1012/110948.103:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\jigar\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\76794401-9f0e-4010-bb5a-97a16675ba60: The system cannot find the path specified. (0x3)
+[1012/111027.699:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\jigar\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\7267c9cb-270c-4d6b-801b-aada266d90c0: The system cannot find the path specified. (0x3)
